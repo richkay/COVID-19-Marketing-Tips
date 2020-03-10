@@ -1,6 +1,6 @@
 # COVID-19-Marketing-Tips
 
-## Marketing Recommendations
+## 1. Marketing Recommendations
 ### Ensure Guest Safety
 • Engage early with guests that are already booked to stay at your property; reach out and let them
 know what safety precautions your property is taking, and that guest safety is a #1 concern
@@ -30,6 +30,22 @@ your room service menu
 ## On Property Foot Traffic
 • Take advantage of foot traffic on property by offering discounted room rates for last minute bookings
 for restaurant or spa guests
+
+
+## 2. Marketing Recommendations for Loyalty Programs
+### Points
+• Reduce the number of points needed to redeem a free night's stay
+
+### Plan Ahead
+• Offer double points for bookings made now for stays in the next 1 – 3 months
+
+### Time to Redeem
+• Reach out to members who have points and/or nights expiring reminding them to
+redeem before they expire
+
+### Inactive Members
+• Send emails to inactive members reminding to make their next booking and reactive their
+membership
 
 
 
